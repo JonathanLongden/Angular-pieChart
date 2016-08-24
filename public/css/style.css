@@ -1,0 +1,29 @@
+.chart-container {
+	padding: 5px;
+	margin: 10px;
+	border: solid 1px #ccc;
+	border-radius: 10rem;
+}
+
+#input {
+	width: 100px;
+}
+
+.home {
+	background-color: black;
+	width: 100%;
+	border-radius: 1rem;
+}
+
+body {
+	background-color: royalblue;
+}
+
+h1 {
+    font-size: 75px;
+    color: white;
+}
+
+label{
+	color: white;
+}
