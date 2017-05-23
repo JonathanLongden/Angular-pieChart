@@ -9,6 +9,7 @@ angular.module("waterShed")
 			{name: 'D', value: 35},
 			{name: 'E', value: 125},
 			{name: 'F', value: 125}
+			//{name: 'F', value: 125}
 		]
 	};
 
