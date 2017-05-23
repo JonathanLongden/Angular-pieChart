@@ -9,15 +9,15 @@ type: 'npm install -g live-server --save'
 
 Set up File Structure
 Folder_Project
--Folder_node_modules
--Folder_public
--Folder_session
--.gitignore
--config.js
--package.json
--Procfile
--README.md
--server.js
+    -Folder_node_modules
+    -Folder_public
+    -Folder_session
+        -.gitignore
+        -config.js
+        -package.json
+        -Procfile
+        -README.md
+        -server.js
 
 To run live Server
 type: 'live-server' in your git-bash command text editor(No Quotes)
